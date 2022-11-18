@@ -17,8 +17,29 @@ List of tech companies (or teams) that are based or working in Nepal. :nepal:
 ### Format
 
 ```
-- | Company Name | Career | Location | Job Title | Stack (Programming Language Proficiency)
+- | Company Name | Career URL | Location | Job Title | Stack (Programming Language Proficiency)
 ```
+
+---
+## A - C
+
+## D - F
+
+## G - I
+
+## J - L
+
+- [Leapfrog Technology](https://career.lftechnology.com/o/senior-full-stack-nodereact-js-developer) | Dillibazar, Kathmandu | Senior Full Stack Node/React JS Developer |  Java, C#, Python, Golang, AngularJS
+
+## M - O
+
+## P - R
+
+## S - U
+
+## V - X
+
+## Y - \#
 
 ## Inspired from
 
