@@ -37,6 +37,8 @@ List of tech companies (or teams) that are based or working in Nepal. :nepal:
 
 ## S - U
 
+- [Soanitech Nepal Pvt Ltd](https://soanitech.com/careers/) | Manbhawan , Lalitpur | Sr Java Developer | Php, java, JS
+
 ## V - X
 
 ## Y - \#
