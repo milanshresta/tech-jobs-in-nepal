@@ -17,7 +17,7 @@ Tech jobs in Nepal
 ### Format
 
 ```
-- | Job Description | Deadline | Required Programming Languages
+- | Company Name | Career | Location | Job Title | Stack (Programming Language Proficiency)
 ```
 
 ## Inspired from
