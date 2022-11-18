@@ -7,7 +7,7 @@ List of tech companies (or teams) that are based or working in Nepal. :nepal:
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | [A - C](#a---c) | [D - F](#d---f) | [G - I](#g---i) | [J - L](#j---l) | [M - O](#m---o) | [P - R](#p---r) | [S - U](#s---u) | [V - X](#v---x) | [Y - \#](#y---) |
 
-**Website:** (https://airtable.com/shr5qF1J5aG0EsrHQ/tbltkYC5Bs5qk36LV?backgroundColor=purple&viewControls=on)
+**Website:** (https://airtable.com/shr5qF1J5aG0EsrHQ)
 
 ## Add a new job to the List
 
