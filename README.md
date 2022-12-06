@@ -23,6 +23,8 @@ List of tech companies (or teams) that are based or working in Nepal. :nepal:
 ---
 ## A - C
 
+- [Aayulogic Pvt. Ltd.](https://aayulogic.com/#career or https://www.linkedin.com/jobs/view/3300713845) | Min Bhawan, Kathmandu | Software Quality Assurance Engineer | Test cases, Solid SQL Knowledge
+
 ## D - F
 
 ## G - I
@@ -30,6 +32,8 @@ List of tech companies (or teams) that are based or working in Nepal. :nepal:
 ## J - L
 
 - [Leapfrog Technology](https://career.lftechnology.com/o/senior-full-stack-nodereact-js-developer) | Dillibazar, Kathmandu | Senior Full Stack Node/React JS Developer |  Java, C#, Python, Golang, AngularJS
+
+- [LIS Nepal - A YOMARI COMPANY](https://lisnepal.com.np/career/) | Lalitpur | PSE-Software Development |  C#, Java, Python
 
 ## M - O
 
@@ -42,6 +46,12 @@ List of tech companies (or teams) that are based or working in Nepal. :nepal:
 ## V - X
 
 ## Y - \#
+
+- [Yarsalabs](https://www.yarsalabs.com/jobs/engineering/) | Kumaripati, Lalitpur | Full Stack Developer | React NextJS Remix Tailwind Node.js Typescript RestAPI
+
+- [YoungInnovations](https://younginnovations.com.np/career/python-developer) | Jawalakhel, Lalitpur | Python Developer | Data principles (RDF, OWL, SHACL) and 3+ Years experience
+
+- [Young Minds Creations Pvt. Ltd.](jobs@youngminds.com.np) | Kumaripati, Lalitpur | PHP Developer | None
 
 ## Inspired from
 
