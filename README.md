@@ -27,6 +27,8 @@ List of tech companies (or teams) that are based or working in Nepal. :Nepal:
 
 ## D - F
 
+- [DHOON](https://dhoon.co) | Shankhamul, Kathmandu | Interns | Test cases, Solid SQL Knowledge, Ui/Ux, AI/Machine Learning
+
 ## G - I
 
 ## J - L
@@ -36,6 +38,8 @@ List of tech companies (or teams) that are based or working in Nepal. :Nepal:
 - [LIS Nepal - A YOMARI COMPANY](https://lisnepal.com.np/career/) | Lalitpur | PSE-Software Development |  C#, Java, Python
 
 ## M - O
+
+- [Naamche](https://naamche.com) | Pipalbot, Kathmandu | Interns | FOSS, Projects 
 
 ## P - R
 
