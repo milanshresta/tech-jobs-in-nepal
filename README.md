@@ -43,9 +43,11 @@ List of tech companies (or teams) that are based or working in Nepal. :Nepal:
 
 ## P - R
 
+- [Qniverse Pvt. Ltd.]([https://soanitech.com/careers/](https://qniverse.co.uk/careers/)) | M7XR+55P, Khola Pravesh Marg, Kathmandu 44600 | Lead Automation QA Engineer
+  
 ## S - U
 
-- [Soanitech Nepal Pvt Ltd](https://soanitech.com/careers/) | Manbhawan , Lalitpur | Sr Java Developer | Php, java, JS
+- [Soanitech Nepal Pvt. Ltd.](https://soanitech.com/careers/) | Manbhawan , Lalitpur | Sr Java Developer | Php, java, JS
 
 ## V - X
 
